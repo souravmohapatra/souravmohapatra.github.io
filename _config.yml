@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sourav Mohapatra / S. Mohapatra"
+title                    : "Sourav Mohapatra"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sourav Mohapatra"
 description              : &description "personal description"
 url                      : https://souravmohapatra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,27 +80,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  name             : "Sourav Mohapatra"
+  avatar           : "images/self.jpg"
+  bio              : "MSc Embedded Systems, TU Delft"
+  location         : "Delft, Netherlands"
+  employer         : "Ex Qualcomm"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=9c6V7nwAAAAJ&hl=en"
+  email            : "S.Mohapatra-1@student.tudelft.nl"
+  researchgate     : "https://www.researchgate.net/profile/Sourav_Mohapatra3"
+  uri              : "souravmohapatra.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "souravmohapatra"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "sourav.mohapatra_"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
