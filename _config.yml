@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sourav Mohapatra"
-  avatar           : "images/self.jpg"
+  avatar           : "self.jpg"
   bio              : "MSc Embedded Systems, TU Delft"
   location         : "Delft, Netherlands"
   employer         : "Ex Qualcomm"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=9c6V7nwAAAAJ&hl=en"
   email            : "S.Mohapatra-1@student.tudelft.nl"
   researchgate     : "https://www.researchgate.net/profile/Sourav_Mohapatra3"
-  uri              : "souravmohapatra.github.io"
+  uri              : ""
   bitbucket        :
   codepen          :
   dribbble         :
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - self.jpg
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
