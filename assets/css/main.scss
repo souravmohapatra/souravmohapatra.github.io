@@ -147,3 +147,23 @@ body.dark-mode .btn:hover {
     color: #fff;
 }
 
+.page__footer-follow {
+  text-align: center;
+  margin-bottom: 10px;
+
+  .social-icons {
+    list-style: none;
+    padding: 0;
+
+    li {
+      display: inline;
+      margin: 0 10px;
+    }
+  }
+}
+
+.page__footer-copyright {
+  text-align: center;
+  font-size: 0.9em;
+  color: #888;
+}
