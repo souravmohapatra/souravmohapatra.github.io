@@ -1,0 +1,17 @@
+---
+title: "Schedulability of Rate Monotonic Algorithm using Improved Time Demand Analysis for Multiprocessor Environment"
+collection: publications
+permalink: /publication/rma-schedulability
+excerpt: "Proposed a schedulability test algorithm that reduces iterations and computational complexity for real-time tasks in multiprocessor systems."
+date: 2018-02-01
+venue: "International Journal of Electrical and Computer Engineering (IJECE)"
+paperurl: "https://www.academia.edu/download/63958931/47_10610_LATEX220200718-1299-1lrwalw.pdf"
+citation: "Leena Das, Sourav Mohapatra, Durga Prasad Mohapatra. (2018). 'Schedulability of Rate Monotonic Algorithm using Improved Time Demand Analysis for Multiprocessor Environment.' <i>International Journal of Electrical and Computer Engineering (IJECE)</i>, 8(1), 429-440."
+---
+This paper proposes a schedulability test algorithm for Real-Time Monotonic Algorithm (RMA), which reduces the number of iterations needed to assess system feasibility. 
+
+The algorithm addresses high complexities in large task sets and extends to multiprocessor environments, comparing performance across varying processor counts. Results show that the proposed approach outperforms existing algorithms in efficiency and computational load.
+
+[Download paper (PDF)](https://www.academia.edu/download/63958931/47_10610_LATEX220200718-1299-1lrwalw.pdf)
+
+Recommended citation: Leena Das, Sourav Mohapatra, Durga Prasad Mohapatra. (2018). "Schedulability of Rate Monotonic Algorithm using Improved Time Demand Analysis for Multiprocessor Environment." *IJECE*, 8(1), 429-440.
