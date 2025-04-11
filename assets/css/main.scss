@@ -39,3 +39,63 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Custom fonts
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
+// Color scheme
+$background-color: #f4f4f9;
+$text-color: #333333;
+$primary-color: #005f73;
+$link-color: #0a9396;
+$link-hover-color: #ee9b00;
+$footer-bg: #001219;
+$accent-color: #94d2bd;
+
+// Apply styles
+body {
+    background-color: $background-color;
+    color: $text-color;
+}
+
+a {
+    color: $link-color;
+    text-decoration: none;
+
+    &:hover {
+        color: $link-hover-color;
+    }
+}
+
+header, nav {
+    background-color: $footer-bg;
+    color: white;
+}
+
+footer {
+    background-color: $footer-bg;
+    color: white;
+}
+
+.btn {
+    background-color: $primary-color;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    display: inline-block;
+
+    &:hover {
+        background-color: $link-hover-color;
+    }
+}
+
+// Smooth transitions
+* {
+    transition: all 0.3s ease;
+}
