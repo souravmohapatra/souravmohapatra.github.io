@@ -1,0 +1,17 @@
+---
+title: "Data Cache for Intermittent Computing Systems with Non-Volatile Main Memory"
+collection: publications
+permalink: /publication/nvm-cache-intermittent
+excerpt: "A novel data cache architecture to reduce checkpoint overhead and optimize intermittent computing systems with non-volatile memory."
+date: 2025-03-30
+venue: "ASPLOS '25: ACM International Conference on Architectural Support for Programming Languages and Operating Systems"
+paperurl: "https://dl.acm.org/doi/10.1145/3676641.3715989"
+citation: "Sourav Mohapatra, Vito Kortbeek, Marco Antonio van Eerden, Jochem Broekhoff, Saad Ahmed, Przemysław Pawełczak. (2025). 'Data Cache for Intermittent Computing Systems with Non-Volatile Main Memory.' <i>ASPLOS '25: ACM International Conference on Architectural Support for Programming Languages and Operating Systems</i>, pp. 227–243."
+---
+This research presents NACHO: a data cache tailored for intermittently-powered embedded computing platforms utilizing non-volatile memory. 
+
+NACHO minimizes checkpoint overhead and increases system performance by integrating write-after-read (WAR) detection directly into the cache. Results show a 54% reduction in runtime overhead and an 82% reduction in non-volatile memory writes compared to cache-less systems.
+
+[Read the paper on ACM](https://dl.acm.org/doi/10.1145/3676641.3715989)
+
+Recommended citation: Sourav Mohapatra, et al. (2025). "Data Cache for Intermittent Computing Systems with Non-Volatile Main Memory." *ASPLOS '25: ACM Conference*, pp. 227–243.
