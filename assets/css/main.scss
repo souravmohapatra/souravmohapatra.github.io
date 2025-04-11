@@ -95,6 +95,19 @@ footer {
     }
 }
 
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 0 10px;
+    transition: color 0.3s, border-bottom 0.3s;
+
+    &:hover {
+        color: #ee9b00;
+        border-bottom: 2px solid #ee9b00;
+    }
+}
+
+
 // Highlight active menu item
 .nav__item--active > a {
     color: #ee9b00; // Your hover color
