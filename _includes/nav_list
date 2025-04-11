@@ -41,6 +41,12 @@
         </ul>
         {% endif %}
       </li>
+      <li>
+        <button id="dark-mode-toggle" style="background: none; border: none; color: inherit; cursor: pointer;">
+          🌙 Dark Mode
+        </button>
+      </li>
+
     {% endfor %}
   </ul>
 </nav>
