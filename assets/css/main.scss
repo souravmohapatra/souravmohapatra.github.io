@@ -120,3 +120,30 @@ nav a {
 * {
     transition: all 0.3s ease;
 }
+
+body.dark-mode {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+}
+
+body.dark-mode a {
+    color: #94d2bd;
+}
+
+body.dark-mode header, 
+body.dark-mode nav, 
+body.dark-mode footer {
+    background-color: #0a0a0a;
+    color: white;
+}
+
+body.dark-mode .btn {
+    background-color: #94d2bd;
+    color: #1e1e1e;
+}
+
+body.dark-mode .btn:hover {
+    background-color: #ee9b00;
+    color: #fff;
+}
+
